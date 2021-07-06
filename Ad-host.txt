@@ -10,7 +10,7 @@
 
 
 
-##危险网站##
+##屏蔽wk网站##
 ||f2pool.com^
 ||epelcdn.com^
 ||gsearch.com.de
