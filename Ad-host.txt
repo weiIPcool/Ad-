@@ -10,6 +10,12 @@
 
 
 
+##危险网站[病毒挖矿]##
+||f2pool.com^
+||epelcdn.com^
+||gsearch.com.de
+||donate.v2.xmrig.com^
+||020dxt.com^
 
 #ios屏蔽
 ||ocsp.int-x3.letsencrypt.org^
