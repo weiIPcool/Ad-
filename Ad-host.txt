@@ -10,10 +10,10 @@
 
 
 
-##屏蔽wk网站##
+#####屏蔽挖矿网站##
 ||f2pool.com^
 ||epelcdn.com^
-||gsearch.com.de
+||gsearch.com.de^
 ||donate.v2.xmrig.com^
 ||020dxt.com^
 
