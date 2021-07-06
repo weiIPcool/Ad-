@@ -1,5 +1,5 @@
 #仅限个人使用
-#update_data:2021-01-27
+#update_data:2021-07-16
 范例:
 1、||example.org^ – 拦截 example.org 域名及其所有子域名
 2、@@||example.org^ – 放行 example.org 及其所有子域名
