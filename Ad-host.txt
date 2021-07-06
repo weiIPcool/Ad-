@@ -10,7 +10,7 @@
 
 
 
-##危险网站[病毒挖矿]##
+##危险网站[挖矿]##
 ||f2pool.com^
 ||epelcdn.com^
 ||gsearch.com.de
